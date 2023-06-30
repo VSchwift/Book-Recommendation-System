@@ -1,6 +1,6 @@
 # Book Recommendation System
 
-This is a book recommendation system that uses collaborative filtering to provide personalized book recommendations based on user ratings. The system is built using Python and Streamlit framework for the web application. [Test the App here](https://book-recommendation-system-swv01.streamlit.app/)
+This is a book recommendation system that uses collaborative filtering to provide personalized book recommendations based on user ratings. The system is built using Python and Streamlit framework for the web application. [Test the App here](https://book-recommendation-system-swv01.streamlit.app/) but does not work well on Streamlit. It will work fine locally.
 
 ## Overview
 
